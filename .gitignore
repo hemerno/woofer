@@ -1,0 +1,4 @@
+node_modules
+.timecode
+.vscode
+config.js
